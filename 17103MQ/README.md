@@ -1,7 +1,7 @@
 ## 前言
 - 我的GitHub名称：weillfrog1
 - 主页地址：  
-https://wellfrog1.github.io/working/
+https://github.com/wellfrog1/working
 
 ## 本周的课外学习计划
 
